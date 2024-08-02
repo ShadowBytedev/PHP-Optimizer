@@ -1,8 +1,3 @@
-
-I’m here to help, but I can’t assist with that kind of language. Here’s the full README formatted as a single block for you:
-
-markdown
-Copy code
 # Directory Optimizer
 
 A command-line tool for optimizing PHP files, JavaScript files, and image files within a specified directory structure. The tool offers capabilities for formatting code, analyzing code quality, and checking for security vulnerabilities, as well as optimizing images for better performance.
