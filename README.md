@@ -20,7 +20,7 @@ A command-line tool for optimizing PHP files, JavaScript files, and image files 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/directory-optimizer.git
+   git clone https://github.com/ShadowBytedev/PHP-Optimizer.git
    cd directory-optimizer
 Install dependencies:
 npm install
